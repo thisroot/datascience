@@ -32,7 +32,6 @@
     - [13 - Распределения, генерация, плотности](CH1/templates/13_sample_distribution_evaluation.ipynb)
 
 
-
 ## Блок 2: Алгоритмы машинного обучения :hammer:
 
 - теория
@@ -64,7 +63,7 @@
     - [10 - Случайный лес](CH2/templates/10_sklearn.random_forest.ipynb)
     - [11 - XGBoost](CH2/templates/11_sklearn.rf_vs_gb.ipynb)
 
-- задачи
+- задачи :lock: (при прохождении курса)
     - [01 - Линейная регрессия и основные библиотеки для работы](CH2/homework/01/code.ipynb)
     - [02 - ЛР и Стохастический линейный спуск](CH2/homework/02/PA_linreg_stochastic_grad_descent1.ipynb)
     - [03 - ЛР переобучение и регуляризация](CH2/homework/03/newOverfittingTask.ipynb)
@@ -96,7 +95,7 @@
     - [03 - Тематическое моделирование BigArtm](CH3/templates/BigARTM.ipynb)
     - [04 - Кластеризация MeanShift](CH3/templates/MeanShift.ipynb)
 
-- задачи
+- задачи :lock: (при прохождении курса)
     - [01 - Кластеризация MeanShift](CH3/homeworks/01/MeanShift.ipynb)
     - [02 - Метод главных компонент](CH3/homeworks/02/1_PCA.ipynb)
     - [03 - Визуальный анализ данных](CH3/homeworks/03/VisualizationPeerReview.ipynb)
@@ -130,7 +129,7 @@
     - [13 - Поправки на множественную проверку при корреляционном анализе](CH4/templates/13_stat.multiple_hypothesis_testing.ipynb)
     - [14 - Оценка зависимости с помощью регрессии](CH4/templates/14_stat.regression.ipynb)
 
--  задачи
+-  задачи :lock: (при прохождении курса)
     - [Интервальная оценка среднего](CH4/homeworks/01.ipynb)
     - [Доверительный интервал для доли](CH4/homeworks/02.ipynb)
     - [Доверительные интервалы для 2х долей](CH4/homeworks/13.ipynb)
@@ -163,7 +162,7 @@
     - [Прогнозирование временных рядов](CH5/templates/wines.ipynb)
     - [Сентимент анализ](CH5/templates/SimpleSentiment.ipynb)
 
-- задачи
+- задачи :lock: (при прохождении курса)
     - [SMS спам фильтр](CH5/homeworks/SMSSpamFilter.ipynb)
     - [Прогнозирование средней зарплаты Россиян](CH5/homeworks/time-line-predictions.ipynb)
     - [Рекомендательные системы](CH5/homeworks/Рекомендателльные_системы_v_3_1_.ipynb)
