@@ -1,8 +1,3 @@
-
-
-
-
-
 # Data Science
 :suspect: :rage2: :rage4: :feelsgood: :finnadie: :boom:  :godmode:
 <P> Всеобъемлющий курс по науке о данных от MIPT и Яндекс
