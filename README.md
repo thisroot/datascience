@@ -1,9 +1,13 @@
 
+
+
+
+
 # Data Science
+:suspect: :rage2: :rage4: :feelsgood: :finnadie: :boom:  :godmode:
+<P> Всеобъемлющий курс по науке о данных от MIPT и Яндекс
 
-Всеобъемлющий курс по науке о данных от MIPT и Яндекс
-
-## Блок 1: Python
+## Блок 1: Python :snake:
 
 - теория
     - [1 - Введение](CH1/books/1_Vvedenie.pdf)
@@ -34,7 +38,7 @@
 
 
 
-## Блок 2: Алгоритмы машинного обучения
+## Блок 2: Алгоритмы машинного обучения :hammer:
 
 - теория
     - [01 - Знакомство с машинным обучением](CH2/books/1_znakomstvo-s-machinym-obucheniem-Slides.pdf)
@@ -79,7 +83,7 @@
     - [11 - Оценка качества работы метрических классификаторов](CH2/homework/10/Untitled.ipynb)
 
 
-## Блок 3: Поиск структуры в данных
+## Блок 3: Поиск структуры в данных :octopus:
 
 - теория
     - [01 -  Введение в кластеризацию](CH3/books/1.1.Vvedenie_v_klasterizatsiyu.pdf)
@@ -104,7 +108,7 @@
     - [04 - LDA - Латентное распределение Дирихле в тематическом моделировании](CH3/homeworks/04/CookingLDA_PA.ipynb)
     - [05 - BigArtm - тематическое моделирование](CH3/homeworks/05/PostnaukaPeerReview.ipynb)
 
-## Блок 4: Построение выводов
+## Блок 4: Построение выводов :hear_no_evil: :gun:
 
 - теория
     - [01 - Доверительные интервалы](CH4/books/1.2.Doveritel_nye_intervaly.pdf)
@@ -146,7 +150,7 @@
     - [Корреляция Пирсона, ](CH4/homeworks/11.ipynb)
     - [Множественная проверка гипотез](CH4/homeworks/12.ipynb)
 
-## Блок: 5 Прикладные задачи анализа данных
+## Блок: 5 Прикладные задачи анализа данных :snowman:
 
 - теория
     - [Прогнозирование временных рядов](CH5/books/1_1_Prognozirovanie-vremennyh-ryadov.pdf)
